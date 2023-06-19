@@ -1,1 +1,4 @@
 .json filter=lfs diff=lfs merge=lfs -text
+‘.json’ filter=lfs diff=lfs merge=lfs -text
+BMWm4_lotti.json filter=lfs diff=lfs merge=lfs -text
+M4_6.mov.lottie.json filter=lfs diff=lfs merge=lfs -text
